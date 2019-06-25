@@ -1,6 +1,11 @@
 # FLAPPY BIRD
 
 <html>
+<head>
+  <p>
+    Integrantes:<br>Esteban Quintero Amaya 20171020022<br>Christian Munar Benítez
+  </p>
+</head>
 <body>
 <table>
   <tr>
