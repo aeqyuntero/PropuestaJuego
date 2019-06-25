@@ -9,10 +9,10 @@
     </p>
     <p>
       Reglas del juego:
-      1. Cuando Flappy toca un tubo, el jugador automáticamente pierde la partida
-      2. Cuando Flappy toca el piso, el jugador automáticamente pierde la partida
-      3. A medida que Flappy va evitando obstáculos, la puntuación se va incrementando
-      4. El juego solamente tiene fin cuando el jugador choca con un obstáculo o toca el piso
+      1. Cuando Flappy toca un tubo, el jugador automáticamente pierde la partida<br>
+      2. Cuando Flappy toca el piso, el jugador automáticamente pierde la partida<br>
+      3. A medida que Flappy va evitando obstáculos, la puntuación se va incrementando<br>
+      4. El juego solamente tiene fin cuando el jugador choca con un obstáculo o toca el piso<br>
     </p> 
   </tr>
   <br>
