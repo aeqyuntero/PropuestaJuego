@@ -3,7 +3,7 @@
 <html>
 <head>
   <p>
-    Integrantes:<br>Esteban Quintero Amaya 20171020022<br>Christian Munar Benítez
+    Integrantes:<br>Esteban Quintero Amaya 20171020022<br>Christian Munar Benítez 20171020099
   </p>
 </head>
 <body>
