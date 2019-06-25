@@ -7,6 +7,13 @@
     <p>
       Descripción del juego: Gracias a la migración actual de aves, nuestro amigo Flappy se ha separado de su familia en busca de un nuevo       rumbo en donde asentarse. El juego consiste en manejar un ave a través de la barra espaciadora o mouse, y pasar a través de               obstáculos que van apareciendo a medida se va avanzando. El objetivo de juego es conseguir la mayor cantidad de puntos, que se             obtienen conforme el ave vaya pasando obstáculos.
     </p>
+    <p>
+      Reglas del juego:
+      1. Cuando Flappy toca un tubo, el jugador automáticamente pierde la partida
+      2. Cuando Flappy toca el piso, el jugador automáticamente pierde la partida
+      3. A medida que Flappy va evitando obstáculos, la puntuación se va incrementando
+      4. El juego solamente tiene fin cuando el jugador choca con un obstáculo o toca el piso
+    </p> 
   </tr>
   <br>
   <tr>
