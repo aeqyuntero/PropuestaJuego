@@ -1,4 +1,4 @@
-# PropuestaJuego
+# FLAPPY BIRD
 
 <html>
 <body>
@@ -16,7 +16,7 @@
   <br>
   <tr>
     <td>Fondo del juego: </td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/fondo.jpg"/></td>
   </tr>
   <br>
   <tr>
@@ -25,24 +25,19 @@
   <br>
   <tr>
     <td>Piso:</td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/piso.jpg"/></td>
   </tr>
   <br>
   <tr>
     <td>Flappy: </td>
-    <td><img src=""/></td>
-  </tr>
-  <br>
-  <tr>
-    <td>Flappy: </td>
-    <td><img src=""/></td>
-    <td><img src=""/></td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/avev11.png"/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/ave12.png"/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/ave13.png"/></td>
   </tr>
   <tr>
     <td>Tubos: </td>
-    <td><img src=""/></td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/tuberia.png"/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/tuberiab.png"/></td>
   </tr>
 </body>    
 </html>
