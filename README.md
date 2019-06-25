@@ -11,7 +11,7 @@
   <br>
   <tr>
     <td>Mockup del juego: </td>
-    <td><img src=""/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/juego.jpg"/></td>
   </tr>
   <br>
   <tr>
