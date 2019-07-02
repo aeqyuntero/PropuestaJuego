@@ -28,7 +28,7 @@
   <br>
   <tr>
     <td>Fondo del juego: </td>
-    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/fondo.jpg"/></td>
+    <td><img src="https://github.com/aeqyuntero/PropuestaJuego/blob/master/mockups/fondo.png"/></td>
   </tr>
   <br>
   <tr>
